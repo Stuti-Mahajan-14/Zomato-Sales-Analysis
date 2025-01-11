@@ -19,7 +19,7 @@ This project involves creating a comprehensive sales analysis dashboard for Zoma
 **4. Data Visualization:** Interactive charts and graphs for easy comprehension.
 
 
-**Key Insights**
+**Key Insights:**
 
 1. Identification of high-performing cities
    
